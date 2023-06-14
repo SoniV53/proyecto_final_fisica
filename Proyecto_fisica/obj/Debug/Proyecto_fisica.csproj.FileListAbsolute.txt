@@ -1,0 +1,123 @@
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Proyecto_fisica.exe.config
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Proyecto_fisica.exe
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Proyecto_fisica.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.AssemblyReference.cache
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.Properties.Resources.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.GenerateResource.cache
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.exe
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.MainForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.menu.MenuLeftForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Buffers.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Collections.Immutable.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Memory.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Foundation.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Composition.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Xaml.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Buffers.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Collections.Immutable.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Memory.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.CopyComplete
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.menu.MenuWelcomeForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.UnidadMedidaForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.InformacionPersonalForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.SelectTemFisicaForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.CaidaLibreForm.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewtonV2Form.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.AgregarInput.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.BaseForms.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.ResultadoFinal.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.DeleteInputsSelect.resources
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Json.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Json.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\source\repos\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.ValueTuple.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Proyecto_fisica.exe.config
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Proyecto_fisica.exe
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Proyecto_fisica.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Buffers.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Collections.Immutable.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Memory.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Numerics.Vectors.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Encodings.Web.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Json.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.ValueTuple.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Fonts.Fluent.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Foundation.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Foundation.Logging.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Composition.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Dispatching.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Toolkit.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Xaml.dll
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Buffers.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Collections.Immutable.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Memory.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Numerics.Vectors.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Encodings.Web.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Text.Json.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\System.ValueTuple.xml
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\bin\Debug\Uno.UI.Toolkit.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.AssemblyReference.cache
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.SuggestedBindingRedirects.cache
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.Properties.Resources.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.BaseForms.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.MainForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.menu.MenuLeftForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.menu.MenuWelcomeForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.InformacionPersonalForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.CaidaLibreForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.AgregarInput.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.DeleteInputsSelect.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewtonV2Form.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.ResultadoFinal.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.SelectTemFisicaForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.UnidadMedidaForm.resources
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.GenerateResource.cache
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.CoreCompileInputs.cache
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.csproj.CopyComplete
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.exe
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.pdb
+C:\SONI VEGA\UNIVERSIDAD\2023\FISICA\Proyecto_fisica\Proyecto_fisica\Proyecto_fisica\obj\Debug\Proyecto_fisica.screen.ui.solucionFisica.LeyesNewton.InstruccionesNewton.resources
